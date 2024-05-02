@@ -1,6 +1,6 @@
 ### Olá mundo 👋
 
-<p>📚 Estou estudando HTML | CSS | JS | Python</p>
+<p>📚 Estou estudando  JS </p>
 
 
 
