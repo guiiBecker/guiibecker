@@ -1,7 +1,7 @@
 ### Olá mundo 👋
 
 <p>📚 Estou estudando HTML | CSS | JS | Python</p>
-<p>💻 Trabalho atualmente como Customer Support da Lumiun</p>
+
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guiiBecker&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
