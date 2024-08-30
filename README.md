@@ -1,6 +1,5 @@
 ### Olá mundo 👋
 
-<p>📚 Estou estudando  JS </p>
 
 
 
